@@ -1,0 +1,17 @@
+.head{
+    background-color: black;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.head h1{
+    color: cyan;
+    font-size: 3em;
+}
+.head h2{
+    color: white;
+}
+.head h3{
+    color: white;
+    font-size: 2em;
+    padding-bottom: 20px;
+}
