@@ -25,7 +25,7 @@ const Student = () => {
         </div>
       </div>
 
-      <div><Cart className='cart' students={cart}></Cart></div>
+      <div><Cart students={cart}></Cart></div>
     </div>
   );
 };
