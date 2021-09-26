@@ -13,7 +13,7 @@ const Actor = (props) => {
               <h5>Class:{year}</h5>
               <h5>Age:{age}</h5>
               <h5>Demand:{money} TK</h5>
-              <button onClick={()=>props.addToCart(props.student)} type="button" className="btn btn-info">Add to cart</button>
+              <button onClick={()=>props.addToCart(props.student)} type="button" className="btn"><i className="fas fa-plus-square"></i> Select</button>
             </div>
           </div>
     </div>

@@ -1,4 +1,8 @@
 .students{
+    background-color: gainsboro;
     display: grid;
     grid-template-columns: 3fr 1fr;
+}
+.cart{
+    position: fixed;
 }
