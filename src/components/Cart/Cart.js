@@ -8,8 +8,10 @@ const Cart = (props) => {
     const totalCost = students.reduce((previous, current)=> previous+current.money,0)
     return (
         <div className='cart'>
+            <div className="cart-head">
             <h2>Actors Added:{totalStd}</h2>
             <h2>Total Cost:{totalCost} TK</h2>
+            </div>
             {
                 students.map(student => <Name student={student}></Name>)
             }

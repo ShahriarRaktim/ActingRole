@@ -5,7 +5,7 @@ const Name = (props) => {
     const {name} = props.student;
     return (
         <div className='selected'>
-            <h3>{name}  <i class="fas fa-times"></i></h3>
+            <h3> <span>{name}</span> <i class="fas fa-times"></i></h3>
         </div>
     );
 };

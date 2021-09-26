@@ -2,6 +2,7 @@
     background-color: gainsboro;
     display: grid;
     grid-template-columns: 3fr 1fr;
+    grid-gap: 100px;
 }
 .cart{
     position: fixed;
