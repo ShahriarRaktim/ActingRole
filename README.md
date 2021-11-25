@@ -3,7 +3,7 @@
 Visit my website to see my natok [student covid natok](https://silly-bhabha-da41b7.netlify.app/).
 
 ## About Natok
-The students faced a lot of study gap.So we are going to make a natok about it.
+The students faced a lot of study gap.So we are going to make a natok about it..
 
 
 ## Learn More
